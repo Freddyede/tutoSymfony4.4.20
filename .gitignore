@@ -22,3 +22,7 @@
 src/
 
 config/
+
+*.json
+
+*.lock
